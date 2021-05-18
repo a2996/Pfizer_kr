@@ -88,9 +88,6 @@
     float:left;
     margin: 1% 0 1% 1.6%;
     
-
-    
-    
 }
 
 .col:first-of-type {
@@ -115,12 +112,7 @@
     margin: 6px auto;
     -webkit-transition: all 0.2s ease-in-out;
     -o-transition: all 0.2s ease-in-out;
-    transition: all 0.2s ease-in-out;
-
-    
-    
-    
-    
+    transition: all 0.2s ease-in-out;      
 }
   
 .hamburger:hover{
