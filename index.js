@@ -9,8 +9,6 @@
 
 
 document.addEventListener('DOMContentLoaded',()=>{
-   
-    
     
     scrollEfect()
     mainMenuEfect()
